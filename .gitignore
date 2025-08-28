@@ -1,0 +1,11 @@
+# Ignore data files
+data/
+*.csv
+*.zip
+
+# Ignore temporary/OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Colab/Notebook checkpoints
+.ipynb_checkpoints/
